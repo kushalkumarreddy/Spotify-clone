@@ -1,0 +1,2068 @@
+{
+  "tracks": [
+    {
+      "id": "1363310482",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "album": "My Dear Melancholy,",
+      "albumId": "1363309866",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/2f/3d/d12f3d43-a2e2-eba4-8db5-91f3f3c13f5a/mzaf_8470584399239689698.plus.aac.p.m4a",
+      "duration": 228,
+      "releaseDate": "2018-03-30",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "1440872304",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "album": "Starboy",
+      "albumId": "1440871397",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/50/1a/50501a86-bd74-e90d-8a56-68c9b5e6e7d6/mzaf_4588197682084244913.plus.aac.p.m4a",
+      "duration": 260,
+      "releaseDate": "2016-11-25",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "1693891139",
+      "title": "One Of The Girls",
+      "artist": "The Weeknd, JENNIE & Lily Rose Depp",
+      "artistId": "artist-the-weeknd",
+      "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+      "albumId": "1693891133",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/2f/1f/9e2f1f11-20a8-767a-0e33-9029028a7024/mzaf_1603981766065362477.plus.aac.p.m4a",
+      "duration": 245,
+      "releaseDate": "2023-06-23",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1440872309",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "album": "Starboy",
+      "albumId": "1440871397",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/af/e0/71afe07f-aae7-c4f0-db02-c05be07591d2/mzaf_5960554915698764959.plus.aac.p.m4a",
+      "duration": 269,
+      "releaseDate": "2016-11-18",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "1714908991",
+      "title": "Coming Down",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "album": "Trilogy",
+      "albumId": "1714908584",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/19/4a/d3194ac4-730a-b12b-b04f-e95bab0416a4/mzaf_4133956479160019549.plus.aac.p.m4a",
+      "duration": 295,
+      "releaseDate": "2011-03-21",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "6814997425",
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "album": "The Life of a Showgirl: The Encore",
+      "albumId": "6814997249",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
+      "duration": 226,
+      "releaseDate": "2026-09-24",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "6775527443",
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "album": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
+      "albumId": "6775527442",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "duration": 178,
+      "releaseDate": "2026-06-05",
+      "genre": "Country",
+      "explicit": false
+    },
+    {
+      "id": "1440936016",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "album": "1989",
+      "albumId": "1440935467",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/86/32/048632f7-a5c5-0f5d-6213-a9e89c3a99b3/mzaf_8458239339293825693.plus.aac.p.m4a",
+      "duration": 219,
+      "releaseDate": "2014-08-19",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1440935808",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "album": "1989",
+      "albumId": "1440935467",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/b4/f6/97b4f65f-f334-771c-a4f5-5e7b9b42634f/mzaf_17056874752218225925.plus.aac.p.m4a",
+      "duration": 232,
+      "releaseDate": "2014-10-27",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1468058171",
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "album": "Lover",
+      "albumId": "1468058165",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/af/81/44af8168-9609-1b85-5048-ada08dceacf3/mzaf_1341699644335558812.plus.aac.p.m4a",
+      "duration": 178,
+      "releaseDate": "2019-08-23",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1452859427",
+      "title": "You Belong With Me",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "album": "Fearless (Platinum Edition)",
+      "albumId": "1452859090",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/dc/cb/59dccbb0-73f9-701e-7b5b-58c902ddfe68/09UMDIM00338.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/6a/e0/156ae0e7-2a35-e1c1-3ebc-c1c837651a50/mzaf_18380354397720038617.plus.aac.p.m4a",
+      "duration": 231,
+      "releaseDate": "2008-11-11",
+      "genre": "Country",
+      "explicit": false
+    },
+    {
+      "id": "1440899467",
+      "title": "ocean eyes",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "album": "dont smile at me",
+      "albumId": "1440898929",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/59/2b/d6592b0b-1e7e-4743-b2e4-f2af038fd783/mzaf_7697277787797935735.plus.aac.p.m4a",
+      "duration": 200,
+      "releaseDate": "2016-05-18",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "1739659144",
+      "title": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumId": "1739659134",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/c3/e8/dec3e884-7237-9622-718a-12c5f48c5ca2/mzaf_3134455671785145822.plus.aac.p.m4a",
+      "duration": 261,
+      "releaseDate": "2024-05-17",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "1739659142",
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumId": "1739659134",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/31/d3/3431d34e-847f-5d66-df83-0bce688d997e/mzaf_18106743962423782018.plus.aac.p.m4a",
+      "duration": 210,
+      "releaseDate": "2024-05-17",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "1450695739",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "albumId": "1450695723",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/87/1f/c3871f7e-3260-d615-1c66-5fdca2c3a48f/mzaf_10721331211699880949.plus.aac.p.m4a",
+      "duration": 194,
+      "releaseDate": "2019-03-29",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "1369380479",
+      "title": "lovely",
+      "artist": "Billie Eilish & Khalid",
+      "artistId": "artist-billie-eilish",
+      "album": "lovely - Single",
+      "albumId": "1369379667",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/d8/8d/1ed88d91-fb06-b3f2-5391-afd732cc2ff9/mzaf_18444937225262929488.plus.aac.p.m4a",
+      "duration": 200,
+      "releaseDate": "2018-04-19",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1450695872",
+      "title": "when the party's over",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "albumId": "1450695723",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/8b/6e/1d8b6e95-d71a-e542-e43b-e820fdbd0504/mzaf_10441316218194274283.plus.aac.p.m4a",
+      "duration": 196,
+      "releaseDate": "2018-10-17",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "1781270323",
+      "title": "luther",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "album": "GNX",
+      "albumId": "1781270319",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/1d/98/e01d9881-0953-f0ed-b03d-3a4bd6f3c769/mzaf_8283505998481315852.plus.aac.p.m4a",
+      "duration": 178,
+      "releaseDate": "2024-11-21",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1440881708",
+      "title": "LOVE. (feat. Zacari)",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "album": "DAMN.",
+      "albumId": "1440881047",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/71/89/72718957-3475-8f6f-3685-aedd470ddc20/mzaf_4044691450436775386.plus.aac.p.m4a",
+      "duration": 213,
+      "releaseDate": "2017-04-14",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1781353929",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "album": "Not Like Us - Single",
+      "albumId": "1781353928",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/e0/e8/2de0e874-cd0b-e9a9-e876-76be13a86662/mzaf_12385336780649591409.plus.aac.p.m4a",
+      "duration": 274,
+      "releaseDate": "2024-05-04",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1781316884",
+      "title": "squabble up",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "album": "GNX",
+      "albumId": "1781316864",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/e5/aa/91e5aa0f-5d8b-532f-8a72-23d4f721d847/mzaf_14650418192241940161.plus.aac.p.m4a",
+      "duration": 158,
+      "releaseDate": "2024-11-21",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1440903307",
+      "title": "All The Stars",
+      "artist": "Kendrick Lamar, SZA",
+      "artistId": "artist-kendrick-lamar",
+      "album": "Black Panther: The Album",
+      "albumId": "1440903005",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/8b/2c/ea8b2cf4-95f2-b0b3-ffc5-10f4611bf98f/mzaf_6758805407695014001.plus.aac.p.m4a",
+      "duration": 232,
+      "releaseDate": "2018-01-04",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1781316952",
+      "title": "tv off (feat. Lefty Gunplay)",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "album": "GNX",
+      "albumId": "1781316864",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/20/31/fb203190-148f-f2be-6ad6-47c5a165f7b9/mzaf_5391716550911069545.plus.aac.p.m4a",
+      "duration": 221,
+      "releaseDate": "2024-11-21",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1538003843",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "album": "Future Nostalgia",
+      "albumId": "1538003494",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/dc/4d/59dc4dda-93ff-8f1c-c536-f005f6ea6af5/mzaf_3066686759813252385.plus.aac.p.m4a",
+      "duration": 204,
+      "releaseDate": "2020-03-27",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1228739609",
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "album": "Dua Lipa (Deluxe)",
+      "albumId": "1228739599",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/19/d9/6e19d9ca-1321-1eea-e797-51d7ab5b56c2/mzaf_5898999508314966855.plus.aac.p.m4a",
+      "duration": 209,
+      "releaseDate": "2017-07-07",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "6805877227",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "album": "Training Season's Over - EP",
+      "albumId": "6805877220",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1d/86/2d1d8629-34d0-f8f6-ffe8-2eca20741d33/1200214922771.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/63/1f/d6631f86-e398-802f-470f-c3a1027759e4/mzaf_10400648329472023183.plus.aac.p.m4a",
+      "duration": 209,
+      "releaseDate": "2024-02-15",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1689238922",
+      "title": "Dance The Night",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "album": "Barbie The Album",
+      "albumId": "1689238301",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/9f/56/9d9f566f-abf6-5f10-bcdb-09e14dcace42/mzaf_10277018989080903908.plus.aac.p.m4a",
+      "duration": 177,
+      "releaseDate": "2023-05-27",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1714502827",
+      "title": "Houdini",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "album": "Houdini - Single",
+      "albumId": "1714502820",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/af/ea/ddafeab5-797a-5b6f-7735-f96c537b45e0/5054197894091.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/da/b5/2cdab5c6-04a8-5231-c697-00101e876479/mzaf_5586859405346659517.plus.aac.p.m4a",
+      "duration": 186,
+      "releaseDate": "2023-11-09",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1484636829",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "album": "Don't Start Now - Single",
+      "albumId": "1484636581",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/3d/34/243d3413-a0fc-b229-f54a-1715ebd3a9ca/mzaf_11578996572221800393.plus.aac.p.m4a",
+      "duration": 183,
+      "releaseDate": "2019-10-31",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "6827331599",
+      "title": "My Love (feat. Drake)",
+      "artist": "Majid Jordan",
+      "artistId": "artist-drake",
+      "album": "Majid Jordan",
+      "albumId": "6827331439",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/b2/15/1fb215ec-1931-4139-ad3f-d35b2e658087/93624921646.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/10/43/a21043d4-a401-908e-2bf1-d5723d506609/mzaf_10729652795689767957.plus.aac.p.m4a",
+      "duration": 248,
+      "releaseDate": "2015-07-10",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "6827328579",
+      "title": "2 Mazza (feat. Drake)",
+      "artist": "Smiley",
+      "artistId": "artist-drake",
+      "album": "Never Box Me In",
+      "albumId": "6827328241",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/7f/ab/d17fabe8-4f9d-403b-6916-a45959eb8bad/808391340022.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/9a/e8/c69ae857-b08f-75f0-9c98-b792ebe3727d/mzaf_11083906468543243298.plus.aac.p.m4a",
+      "duration": 192,
+      "releaseDate": "2025-06-12",
+      "genre": "Hip-Hop",
+      "explicit": false
+    },
+    {
+      "id": "6827331511",
+      "title": "Stars Align (with Drake)",
+      "artist": "Majid Jordan & Drake",
+      "artistId": "artist-drake",
+      "album": "Wildest Dreams",
+      "albumId": "6827331403",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/da/5f/67da5fd2-0862-6f53-b4ac-5757e3482f8b/93624875062.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/50/e3/c250e342-8f7c-2f61-dcc4-421a780d4515/mzaf_3179377620335584429.plus.aac.p.m4a",
+      "duration": 261,
+      "releaseDate": "2021-10-22",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "6827328126",
+      "title": "2 Mazza (feat. Drake)",
+      "artist": "Smiley",
+      "artistId": "artist-drake",
+      "album": "Don't Box Me In",
+      "albumId": "6827327725",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/64/54/4164544a-9a14-0dca-7146-f5c1f63ec822/808391309494.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/21/c8/1521c8e9-eb61-06cb-7669-78ecdcc6d53f/mzaf_7761229942868792319.plus.aac.p.m4a",
+      "duration": 192,
+      "releaseDate": "2025-06-12",
+      "genre": "Hip-Hop",
+      "explicit": false
+    },
+    {
+      "id": "1440829630",
+      "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+      "artist": "Drake",
+      "artistId": "artist-drake",
+      "album": "Nothing Was the Same (Deluxe)",
+      "albumId": "1440829462",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/29/77/6a29774b-1cde-2a24-c9a7-7b69c5dff602/mzaf_13454693018547391187.plus.aac.p.m4a",
+      "duration": 231,
+      "releaseDate": "2013-08-07",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "1440843496",
+      "title": "One Dance (feat. Wizkid & Kyla)",
+      "artist": "Drake",
+      "artistId": "artist-drake",
+      "album": "Views",
+      "albumId": "1440842556",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/1b/68/ed1b680f-8ae3-0cbf-c249-0aff56cc96fe/mzaf_17999620630731562813.plus.aac.p.m4a",
+      "duration": 174,
+      "releaseDate": "2016-04-05",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false
+    },
+    {
+      "id": "6781080934",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "album": "The Platinum Collection",
+      "albumId": "6781080933",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/b7/14/bbb714e5-8d2f-dc88-8773-67b19d71178b/mzaf_6782698911866218823.plus.aac.p.m4a",
+      "duration": 355,
+      "releaseDate": "1975-10-31",
+      "genre": "Rock",
+      "explicit": false
+    },
+    {
+      "id": "6781080941",
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "album": "The Platinum Collection",
+      "albumId": "6781080933",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/17/ca/b717ca12-1d3e-888f-b284-815fd155218a/mzaf_14801893366171839988.plus.aac.p.m4a",
+      "duration": 210,
+      "releaseDate": "1978-11-10",
+      "genre": "Rock",
+      "explicit": false
+    },
+    {
+      "id": "6781081101",
+      "title": "We Will Rock You",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "album": "The Platinum Collection",
+      "albumId": "6781080933",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/d6/93/00d69397-069a-bdf9-0d26-f57938f7a3e3/mzaf_10850117933157782438.plus.aac.p.m4a",
+      "duration": 122,
+      "releaseDate": "1977-10-07",
+      "genre": "Rock",
+      "explicit": false
+    },
+    {
+      "id": "6781076397",
+      "title": "Another One Bites The Dust",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "album": "The Game (Deluxe Edition)",
+      "albumId": "6781076388",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/ee/da/08eeda1f-d44d-aec1-ec9d-0c5b9f8c8536/602527717524.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/d7/5d/75d75df3-f914-0bb4-87a8-ad98db94c7ed/mzaf_17554542485020964696.plus.aac.p.m4a",
+      "duration": 215,
+      "releaseDate": "1980-06-30",
+      "genre": "Rock",
+      "explicit": false
+    },
+    {
+      "id": "6781080944",
+      "title": "Somebody To Love",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "album": "The Platinum Collection",
+      "albumId": "6781080933",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/3a/74/323a74cc-4098-e7f0-e4a2-cebf8c1b8767/mzaf_2248972625608441971.plus.aac.p.m4a",
+      "duration": 297,
+      "releaseDate": "1976-11-12",
+      "genre": "Rock",
+      "explicit": false
+    },
+    {
+      "id": "6781080936",
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "album": "The Platinum Collection",
+      "albumId": "6781080933",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/de/4d/6dde4de1-f88d-d981-fea6-13cd17585910/mzaf_6737857853694899340.plus.aac.p.m4a",
+      "duration": 181,
+      "releaseDate": "1974-10-11",
+      "genre": "Rock",
+      "explicit": false
+    },
+    {
+      "id": "663097965",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "album": "AM",
+      "albumId": "663097964",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/cb/ba/71cbbaa1-016b-0e73-dfc2-9f4ede9ddfc0/mzaf_16266777024198047150.plus.aac.p.m4a",
+      "duration": 272,
+      "releaseDate": "2013-06-19",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "251499791",
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "album": "Favourite Worst Nightmare",
+      "albumId": "251499221",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/0d/ab/d10dabc8-cceb-e718-401f-01516b009460/mzaf_13845311225859403599.plus.aac.p.m4a",
+      "duration": 254,
+      "releaseDate": "2007-04-20",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "663098065",
+      "title": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "album": "AM",
+      "albumId": "663097964",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/0c/df/8b0cdfe6-f619-1ab0-366a-73be84c04dec/mzaf_14055369509528206797.plus.aac.p.m4a",
+      "duration": 184,
+      "releaseDate": "2013-09-09",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "663098056",
+      "title": "Why'd You Only Call Me When You're High?",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "album": "AM",
+      "albumId": "663097964",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/0a/62/820a62a1-a210-6c6d-6a3f-ec39294b32a4/mzaf_12218643389409810677.plus.aac.p.m4a",
+      "duration": 161,
+      "releaseDate": "2013-08-11",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "663097966",
+      "title": "R U Mine?",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "album": "AM",
+      "albumId": "663097964",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/80/9f/6f809f2b-b960-90c1-f618-4e1d1fec11fa/mzaf_3957424487272184184.plus.aac.p.m4a",
+      "duration": 202,
+      "releaseDate": "2012-02-27",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "663098051",
+      "title": "No. 1 Party Anthem",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "album": "AM",
+      "albumId": "663097964",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/32/b4/ea32b4ce-8211-8e63-024e-cf18c42e2eda/mzaf_15252909301723072031.plus.aac.p.m4a",
+      "duration": 243,
+      "releaseDate": "2013-09-09",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "439618071",
+      "title": "Sure Thing",
+      "artist": "Miguel",
+      "artistId": "29254083",
+      "album": "All I Want Is You",
+      "albumId": "439618070",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/85/3f/4b853f59-1e43-5e93-54cf-5a799c04ed1d/884977670820.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/3c/ef/c43cef58-ab77-43b3-8840-337f29f97559/mzaf_8011635695086582296.plus.aac.p.m4a",
+      "duration": 195,
+      "releaseDate": "2010-11-26",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "561709120",
+      "title": "How Many Drinks?",
+      "artist": "Miguel",
+      "artistId": "29254083",
+      "album": "Kaleidoscope Dream",
+      "albumId": "561709112",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/a5/5c/1da55ce8-ef37-f41c-dd4d-5303f182895b/mzaf_10780815845640728715.plus.aac.p.m4a",
+      "duration": 273,
+      "releaseDate": "2012-09-25",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "561709114",
+      "title": "Adorn",
+      "artist": "Miguel",
+      "artistId": "29254083",
+      "album": "Kaleidoscope Dream",
+      "albumId": "561709112",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/22/a8/b422a8b6-bb67-d455-9fc4-21bd751a84d9/mzaf_720917998794500513.plus.aac.p.m4a",
+      "duration": 193,
+      "releaseDate": "2012-08-07",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "1500821181",
+      "title": "Happiness Over Everything (H.O.E.) [feat. Future & Miguel]",
+      "artist": "Jhené Aiko",
+      "artistId": "198431322",
+      "album": "Chilombo",
+      "albumId": "1500821043",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/99/b0/3e99b08a-12ba-053d-5f5a-6736022fd6e3/20UMGIM09141.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/5f/bb/855fbbc7-09fe-5c3e-6165-73b095d4eb2c/mzaf_1542018662690500989.plus.aac.p.m4a",
+      "duration": 188,
+      "releaseDate": "2020-02-26",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "1163911983",
+      "title": "Fahrenheit Fair Enough",
+      "artist": "Telefon Tel Aviv",
+      "artistId": "4210796",
+      "album": "Fahrenheit Fair Enough",
+      "albumId": "1163911790",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6c/5f/b4/6c5fb4de-697d-ff3f-7067-af1ae9a767df/804297827223.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/95/e7/5495e78e-cc2a-7cdc-c8ae-a0db2a147876/mzaf_3088378265887295731.plus.aac.p.m4a",
+      "duration": 400,
+      "releaseDate": "2001-09-18",
+      "genre": "IDM/Experimental",
+      "explicit": false
+    },
+    {
+      "id": "439618075",
+      "title": "Quickie",
+      "artist": "Miguel",
+      "artistId": "29254083",
+      "album": "All I Want Is You",
+      "albumId": "439618070",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/85/3f/4b853f59-1e43-5e93-54cf-5a799c04ed1d/884977670820.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/df/56/66df5636-c0e0-0247-459c-b93900bfd201/mzaf_11618429752837462220.plus.aac.p.m4a",
+      "duration": 226,
+      "releaseDate": "2010-11-30",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "439618073",
+      "title": "Girl With the Tattoo Enter.lewd",
+      "artist": "Miguel",
+      "artistId": "29254083",
+      "album": "All I Want Is You",
+      "albumId": "439618070",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/85/3f/4b853f59-1e43-5e93-54cf-5a799c04ed1d/884977670820.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/9d/22/199d2273-b01e-8dc3-b6fd-92af7080bfb6/mzaf_3884077189155520540.plus.aac.p.m4a",
+      "duration": 103,
+      "releaseDate": "2010-11-30",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "599655630",
+      "title": "Don't Tell Me a Lie",
+      "artist": "Pretenders",
+      "artistId": "2663644",
+      "album": "Doo Wop City, Vol. 10",
+      "albumId": "599655389",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/9f/f2/8d/9ff28dd9-80f1-17ec-4276-27c49fafbfb8/doo_wop_city_10.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/41/e5/2e41e599-867c-57b2-0c77-a092c20a0507/mzaf_7296558890605961595.plus.aac.p.m4a",
+      "duration": 114,
+      "releaseDate": "2009-09-09",
+      "genre": "Doo Wop",
+      "explicit": false
+    },
+    {
+      "id": "1356572435",
+      "title": "Remind Me to Forget",
+      "artist": "Kygo & Miguel",
+      "artistId": "635806094",
+      "album": "Remind Me to Forget - Single",
+      "albumId": "1356572424",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ff/7c/fb/ff7cfb7d-653f-2933-26f7-54b05e59c2d1/886447007105.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/e9/c2/27e9c2a5-3f32-1ad4-c9dc-a8c84329f47e/mzaf_9444648203100487580.plus.aac.p.m4a",
+      "duration": 217,
+      "releaseDate": "2018-03-16",
+      "genre": "Dance",
+      "explicit": false
+    },
+    {
+      "id": "1005171880",
+      "title": "Simple Things",
+      "artist": "Miguel",
+      "artistId": "29254083",
+      "album": "Wildheart (Deluxe)",
+      "albumId": "1005171711",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/e8/ba/2ee8baac-f1a8-b82d-53be-ab2140d09d14/886445204278.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/fc/33/ecfc336a-ebce-5c35-1738-55f7ec8ebb7e/mzaf_13355123418420036771.plus.aac.p.m4a",
+      "duration": 196,
+      "releaseDate": "2015-06-26",
+      "genre": "R&B/Soul",
+      "explicit": false
+    },
+    {
+      "id": "1355898339",
+      "title": "Tel Aviv",
+      "artist": "Skeler",
+      "artistId": "1257397468",
+      "album": "Tel Aviv - Single",
+      "albumId": "1355898321",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/73/7a/8c737aae-acbd-82dd-5866-7a51aad87380/artwork.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/42/36/614236fc-f9f5-5957-370e-61b22289e844/mzaf_10281136469512691282.plus.aac.p.m4a",
+      "duration": 217,
+      "releaseDate": "2018-03-05",
+      "genre": "Electronica",
+      "explicit": false
+    },
+    {
+      "id": "1455553953",
+      "title": "Tel Aviv",
+      "artist": "Danny Ocean",
+      "artistId": "1248515752",
+      "album": "54+1",
+      "albumId": "1455553642",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/ab/eb/0fabeb71-8f9b-55da-8a24-248f7a510871/190296877360.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/21/e1/0e21e14b-bd61-a85b-8c6b-1ac85675da4b/mzaf_4369575689128796116.plus.aac.p.m4a",
+      "duration": 215,
+      "releaseDate": "2019-03-14",
+      "genre": "Pop Latino",
+      "explicit": false
+    },
+    {
+      "id": "1443832681",
+      "title": "Tel",
+      "artist": "Alain Bashung",
+      "artistId": "13453348",
+      "album": "L'imprudence",
+      "albumId": "1443832672",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cf/ba/0e/cfba0e9a-0ee2-5f8b-d90f-df0897a3be8b/00602498302743.rgb.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f9/0b/c6/f90bc67a-a042-7700-0c25-52543a3b28a7/mzaf_2945444441747866162.plus.aac.p.m4a",
+      "duration": 340,
+      "releaseDate": "2002-01-01",
+      "genre": "Alternative",
+      "explicit": false
+    },
+    {
+      "id": "1660238322",
+      "title": "Tel",
+      "artist": "Khesari Lal Yadav & Neha Raj",
+      "artistId": "517783570",
+      "album": "Tel - Single",
+      "albumId": "1660238110",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/2b/a8/4e2ba881-551c-e769-762f-2fa3eec23f85/197187736027.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/3a/a8/633aa806-b2f2-af1a-075a-2a10ac628fd0/mzaf_1842274184372660385.plus.aac.p.m4a",
+      "duration": 221,
+      "releaseDate": "2022-12-19",
+      "genre": "Indian Pop",
+      "explicit": false
+    },
+    {
+      "id": "1722644255",
+      "title": "Tél",
+      "artist": "Follow The Flow",
+      "artistId": "1198640671",
+      "album": "Tél - Single",
+      "albumId": "1722644244",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/92/bb/e392bb71-324a-b42c-c17a-c84d08ed6695/cover.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/de/ce/ae/deceae54-4361-046b-b674-2e770d5a271d/mzaf_855991461639945789.plus.aac.p.m4a",
+      "duration": 161,
+      "releaseDate": "2023-12-24",
+      "genre": "Pop",
+      "explicit": false
+    },
+    {
+      "id": "1826025241",
+      "title": "Monica (From \"Coolie\") (Telugu)",
+      "artist": "Anirudh Ravichander, Sublahshini & Krishna Kanth",
+      "artistId": "480976476",
+      "album": "Monica (From \"Coolie\") (Telugu) - Single",
+      "albumId": "1826025239",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/3b/24/af3b241f-9814-1aa2-95a1-3109642ba0b6/199538275490.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e1/f3/93e1f37e-73cc-5fa0-44e1-c91b40dd1073/mzaf_9025353060604632834.plus.aac.p.m4a",
+      "duration": 189,
+      "releaseDate": "2025-07-11",
+      "genre": "Regional Indian",
+      "explicit": false
+    },
+    {
+      "id": "1529548964",
+      "title": "Dimaak Kharaab",
+      "artist": "Keerthana Sharma & Saketh",
+      "artistId": "1329340114",
+      "album": "Ismart Shankar (Original Motion Picture Soundtrack) - EP",
+      "albumId": "1529548961",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/fa/4c/affa4cee-3a97-a80f-abf9-eca4da23d266/8718857799764.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/76/70/787670b1-0945-8840-10ba-d1824b844170/mzaf_9393427755172785008.plus.aac.p.m4a",
+      "duration": 280,
+      "releaseDate": "2019-06-07",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "530944482",
+      "title": "Nee Yadalo Naaku",
+      "artist": "Yuvan Shankar Raja & Tanvi",
+      "artistId": "117755361",
+      "album": "Awaara - EP",
+      "albumId": "530944468",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/d3/f1/b8d3f1c3-8a88-d35b-9f4e-84b5e53f25e2/886443237612.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/b6/09/fdb609ac-93de-c0ea-6386-3327d6bae1f2/mzaf_13067771558680573783.plus.aac.p.m4a",
+      "duration": 293,
+      "releaseDate": "2010-01-01",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1828911353",
+      "title": "Vibe Undi (From \"Mirai\") [Telugu]",
+      "artist": "GowraHari, Armaan Malik & Krishna Kanth",
+      "artistId": "1674761029",
+      "album": "Vibe Undi (From \"Mirai\") [Telugu] - Single",
+      "albumId": "1828911352",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/1a/57/c51a5731-ad76-0c50-ebb0-5ca25517756f/8901854107551.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/5c/74/f85c7441-034f-7292-a847-f2f18ee0723e/mzaf_4158412946678943610.plus.aac.p.m4a",
+      "duration": 202,
+      "releaseDate": "2025-07-26",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "530944471",
+      "title": "Chiru Chiru",
+      "artist": "Haricharan & Tanvi",
+      "artistId": "1142332194",
+      "album": "Awaara - EP",
+      "albumId": "530944468",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/d3/f1/b8d3f1c3-8a88-d35b-9f4e-84b5e53f25e2/886443237612.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/85/68/c98568db-c362-2ba1-84c4-27331e4050a6/mzaf_17431310478957675308.plus.aac.p.m4a",
+      "duration": 284,
+      "releaseDate": "2010-01-01",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1829410455",
+      "title": "Mallika Gandha (From \"Telusu Kada\")",
+      "artist": "Sid Sriram, S.S. Thaman & Krishna Kanth",
+      "artistId": "401698843",
+      "album": "Mallika Gandha (From \"Telusu Kada\") - Single",
+      "albumId": "1829410449",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/1e/aa/ed1eaabc-9ec5-611e-27bb-6ab85de51a78/8901854107605.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/91/77/d99177cd-d0b2-59ef-86c0-4be5403d82ea/mzaf_10910770982713206472.plus.aac.p.m4a",
+      "duration": 261,
+      "releaseDate": "2025-07-28",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1702554487",
+      "title": "Pulsar Bike",
+      "artist": "Bheems Ceciroleo",
+      "artistId": "898564990",
+      "album": "Dhamaka (Original Motion Picture Soundtrack) - EP",
+      "albumId": "1702553687",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ce/13/16/ce131614-7344-0e01-f86c-bcd8fef5c351/8904337288792.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/b7/8e/05b78e7f-f2e1-c8e1-4422-60cdd8ccac97/mzaf_17358392316594867160.plus.aac.p.m4a",
+      "duration": 130,
+      "releaseDate": "2023-01-07",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1753737360",
+      "title": "Raghunandana (From \"HanuMan\") [Telugu]",
+      "artist": "GowraHari, Saicharan Bhaskaruni, Lokeshwar Edara & Harshavardhan Chavali",
+      "artistId": "1674761029",
+      "album": "HanuMan (Original Motion Picture Soundtrack) [Telugu]",
+      "albumId": "1753736169",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/57/b5/2357b5bb-7654-04a4-dadb-aff64b05fa82/8901854089734.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/80/99/ac8099fb-6363-8413-59ab-796dac767762/mzaf_4079244781719913905.plus.aac.p.m4a",
+      "duration": 151,
+      "releaseDate": "2023-04-06",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1256711137",
+      "title": "Telugu",
+      "artist": "Rudresh Mahanthappa",
+      "artistId": "74623664",
+      "album": "Mother Tongue",
+      "albumId": "1256710527",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/01/ab/2601ab58-0592-d007-ebd4-27107ef68845/808713001426_cover.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/78/26/b1782624-335a-cffa-111f-30a74c15ce82/mzaf_15285548983808207389.plus.aac.p.m4a",
+      "duration": 402,
+      "releaseDate": "2004-10-19",
+      "genre": "Jazz",
+      "explicit": false
+    },
+    {
+      "id": "1753736176",
+      "title": "Hanuman Chalisa (From \"HanuMan\") [Telugu]",
+      "artist": "GowraHari & Saicharan Bhaskaruni",
+      "artistId": "1674761029",
+      "album": "HanuMan (Original Motion Picture Soundtrack) [Telugu]",
+      "albumId": "1753736169",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/57/b5/2357b5bb-7654-04a4-dadb-aff64b05fa82/8901854089734.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/30/5c/03305c36-c795-d9ff-b4cc-71a60afc9d2e/mzaf_16657788798425398576.plus.aac.p.m4a",
+      "duration": 248,
+      "releaseDate": "2023-04-05",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1529548962",
+      "title": "Ismart Title Song",
+      "artist": "Anurag Kulkarni",
+      "artistId": "1187826636",
+      "album": "Ismart Shankar (Original Motion Picture Soundtrack) - EP",
+      "albumId": "1529548961",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/fa/4c/affa4cee-3a97-a80f-abf9-eca4da23d266/8718857799764.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/d6/42/0cd6422b-ee38-75d1-2617-43ef321c0186/mzaf_10477817027624281045.plus.aac.p.m4a",
+      "duration": 252,
+      "releaseDate": "2019-06-19",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1738608216",
+      "title": "Anuvanuvuu",
+      "artist": "Arijit Singh",
+      "artistId": "484568188",
+      "album": "Om Bheem Bush (Original Motion Picture Soundtrack)",
+      "albumId": "1738607850",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/90/4e/4e904ea0-cd94-5409-0631-b1f63ac44715/cover.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/b6/c7/abb6c746-e4e0-d265-5832-2ed57ec07850/mzaf_9477828004996718024.plus.aac.p.m4a",
+      "duration": 212,
+      "releaseDate": "2024-03-26",
+      "genre": "Indian",
+      "explicit": false
+    },
+    {
+      "id": "1529548965",
+      "title": "Undipo",
+      "artist": "Anurag Kulkarni & Ramya Behara",
+      "artistId": "1187826636",
+      "album": "Ismart Shankar (Original Motion Picture Soundtrack) - EP",
+      "albumId": "1529548961",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/fa/4c/affa4cee-3a97-a80f-abf9-eca4da23d266/8718857799764.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/28/d2/c928d262-621e-7d91-f532-77a62c7a6542/mzaf_6014799267230906496.plus.aac.p.m4a",
+      "duration": 303,
+      "releaseDate": "2019-06-29",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1529548963",
+      "title": "Zindabad Zindabad",
+      "artist": "Sarath Santhosh & Ramya Behara",
+      "artistId": "664313113",
+      "album": "Ismart Shankar (Original Motion Picture Soundtrack) - EP",
+      "albumId": "1529548961",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/fa/4c/affa4cee-3a97-a80f-abf9-eca4da23d266/8718857799764.png/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/7e/d1/dd7ed115-9ab2-5ac8-5d73-46b2ec129b24/mzaf_14024189089885549848.plus.aac.p.m4a",
+      "duration": 190,
+      "releaseDate": "2019-06-14",
+      "genre": "Soundtrack",
+      "explicit": false
+    },
+    {
+      "id": "1702553691",
+      "title": "Jinthaak Chithaka (From \"Dhamaka\")",
+      "artist": "Bheems Ceciroleo & Mangli",
+      "artistId": "898564990",
+      "album": "Dhamaka (Original Motion Picture Soundtrack) - EP",
+      "albumId": "1702553687",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ce/13/16/ce131614-7344-0e01-f86c-bcd8fef5c351/8904337288792.jpg/600x600bb.jpg",
+      "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/2f/52/e12f529b-2ec0-fcd5-784e-7afadb82d3d4/mzaf_12424740723893988126.plus.aac.p.m4a",
+      "duration": 225,
+      "releaseDate": "2022-08-18",
+      "genre": "Soundtrack",
+      "explicit": false
+    }
+  ],
+  "artists": [
+    {
+      "id": "artist-the-weeknd",
+      "name": "The Weeknd",
+      "followers": "115,248,930",
+      "monthlyListeners": "112,492,100",
+      "bio": "Abel Makkonen Tesfaye, known professionally as The Weeknd, is a Canadian singer, songwriter, and record producer. Renowned for his unconventional music production, artistic reinventions, and his signature use of the falsetto register.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "1363310482",
+        "1440872304",
+        "1693891139",
+        "1440872309",
+        "1714908991"
+      ]
+    },
+    {
+      "id": "artist-taylor-swift",
+      "name": "Taylor Swift",
+      "followers": "118,924,140",
+      "monthlyListeners": "106,380,450",
+      "bio": "Taylor Alison Swift is an American singer-songwriter. Her multifaceted songwriting, artistic reinventions, and cultural influence have made her a defining figure of contemporary popular culture.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "6814997425",
+        "6775527443",
+        "1440936016",
+        "1440935808",
+        "1468058171",
+        "1452859427"
+      ]
+    },
+    {
+      "id": "artist-billie-eilish",
+      "name": "Billie Eilish",
+      "followers": "98,421,700",
+      "monthlyListeners": "104,115,300",
+      "bio": "Billie Eilish Pirate Baird O'Connell is an American singer-songwriter. She first gained public attention in 2015 with her debut single Ocean Eyes and has won numerous Grammy Awards and Academy Awards.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "1440899467",
+        "1739659144",
+        "1739659142",
+        "1450695739",
+        "1369380479",
+        "1450695872"
+      ]
+    },
+    {
+      "id": "artist-kendrick-lamar",
+      "name": "Kendrick Lamar",
+      "followers": "34,812,000",
+      "monthlyListeners": "72,400,000",
+      "bio": "Kendrick Lamar Duckworth is an American rapper and songwriter. Widely regarded as one of the most influential hip-hop artists of his generation and one of the greatest rappers of all time.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "1781270323",
+        "1440881708",
+        "1781353929",
+        "1781316884",
+        "1440903307",
+        "1781316952"
+      ]
+    },
+    {
+      "id": "artist-dua-lipa",
+      "name": "Dua Lipa",
+      "followers": "45,630,200",
+      "monthlyListeners": "68,910,000",
+      "bio": "Dua Lipa is an English and Albanian singer and songwriter. Her mezzo-soprano vocal range and disco-pop production have earned her critical acclaim and global commercial success.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "1538003843",
+        "1228739609",
+        "6805877227",
+        "1689238922",
+        "1714502827",
+        "1484636829"
+      ]
+    },
+    {
+      "id": "artist-drake",
+      "name": "Drake",
+      "followers": "88,140,000",
+      "monthlyListeners": "84,100,000",
+      "bio": "Aubrey Drake Graham is a Canadian rapper, singer, and songwriter. An influential figure in contemporary popular music, he is credited with popularizing singing and R&B sensibilities in hip hop.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/b2/15/1fb215ec-1931-4139-ad3f-d35b2e658087/93624921646.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "6827331599",
+        "6827328579",
+        "6827331511",
+        "6827328126",
+        "1440829630",
+        "1440843496"
+      ]
+    },
+    {
+      "id": "artist-queen",
+      "name": "Queen",
+      "followers": "52,300,000",
+      "monthlyListeners": "51,800,000",
+      "bio": "Queen are a British rock band formed in London in 1970 by Freddie Mercury, Brian May, Roger Taylor, and later joined by John Deacon. Their classic hits remain timeless anthems.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "6781080934",
+        "6781080941",
+        "6781081101",
+        "6781076397",
+        "6781080944",
+        "6781080936"
+      ]
+    },
+    {
+      "id": "artist-arctic-monkeys",
+      "name": "Arctic Monkeys",
+      "followers": "28,900,000",
+      "monthlyListeners": "42,100,000",
+      "bio": "Arctic Monkeys are an English rock band formed in Sheffield in 2002. The group consists of Alex Turner, Jamie Cook, Nick O'Malley, and Matt Helders.",
+      "verified": true,
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "banner": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=1600&auto=format&fit=crop&q=80",
+      "topTracks": [
+        "663097965",
+        "251499791",
+        "663098065",
+        "663098056",
+        "663097966",
+        "663098051"
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "id": "1363309866",
+      "title": "My Dear Melancholy,",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2018-03-30",
+      "tracks": [
+        "1363310482"
+      ],
+      "genre": "R&B/Soul"
+    },
+    {
+      "id": "1440871397",
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2016-11-25",
+      "tracks": [
+        "1440872304",
+        "1440872309"
+      ],
+      "genre": "R&B/Soul"
+    },
+    {
+      "id": "1693891133",
+      "title": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+      "artist": "The Weeknd, JENNIE & Lily Rose Depp",
+      "artistId": "artist-the-weeknd",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2023-06-23",
+      "tracks": [
+        "1693891139"
+      ],
+      "genre": "Soundtrack"
+    },
+    {
+      "id": "1714908584",
+      "title": "Trilogy",
+      "artist": "The Weeknd",
+      "artistId": "artist-the-weeknd",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2011-03-21",
+      "tracks": [
+        "1714908991"
+      ],
+      "genre": "R&B/Soul"
+    },
+    {
+      "id": "6814997249",
+      "title": "The Life of a Showgirl: The Encore",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2026-09-24",
+      "tracks": [
+        "6814997425"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "6775527442",
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2026-06-05",
+      "tracks": [
+        "6775527443"
+      ],
+      "genre": "Country"
+    },
+    {
+      "id": "1440935467",
+      "title": "1989",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2014-08-19",
+      "tracks": [
+        "1440936016",
+        "1440935808"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1468058165",
+      "title": "Lover",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2019-08-23",
+      "tracks": [
+        "1468058171"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1452859090",
+      "title": "Fearless (Platinum Edition)",
+      "artist": "Taylor Swift",
+      "artistId": "artist-taylor-swift",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/dc/cb/59dccbb0-73f9-701e-7b5b-58c902ddfe68/09UMDIM00338.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2008-11-11",
+      "tracks": [
+        "1452859427"
+      ],
+      "genre": "Country"
+    },
+    {
+      "id": "1440898929",
+      "title": "dont smile at me",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2016-05-18",
+      "tracks": [
+        "1440899467"
+      ],
+      "genre": "Alternative"
+    },
+    {
+      "id": "1739659134",
+      "title": "HIT ME HARD AND SOFT",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2024-05-17",
+      "tracks": [
+        "1739659144",
+        "1739659142"
+      ],
+      "genre": "Alternative"
+    },
+    {
+      "id": "1450695723",
+      "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "artist": "Billie Eilish",
+      "artistId": "artist-billie-eilish",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2019-03-29",
+      "tracks": [
+        "1450695739",
+        "1450695872"
+      ],
+      "genre": "Alternative"
+    },
+    {
+      "id": "1369379667",
+      "title": "lovely - Single",
+      "artist": "Billie Eilish & Khalid",
+      "artistId": "artist-billie-eilish",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2018-04-19",
+      "tracks": [
+        "1369380479"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1781270319",
+      "title": "GNX",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2024-11-21",
+      "tracks": [
+        "1781270323"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "1440881047",
+      "title": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2017-04-14",
+      "tracks": [
+        "1440881708"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "1781353928",
+      "title": "Not Like Us - Single",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2024-05-04",
+      "tracks": [
+        "1781353929"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "1781316864",
+      "title": "GNX",
+      "artist": "Kendrick Lamar",
+      "artistId": "artist-kendrick-lamar",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2024-11-21",
+      "tracks": [
+        "1781316884",
+        "1781316952"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "1440903005",
+      "title": "Black Panther: The Album",
+      "artist": "Kendrick Lamar, SZA",
+      "artistId": "artist-kendrick-lamar",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2018-01-04",
+      "tracks": [
+        "1440903307"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "1538003494",
+      "title": "Future Nostalgia",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/600x600bb.jpg",
+      "releaseDate": "2020-03-27",
+      "tracks": [
+        "1538003843"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1228739599",
+      "title": "Dua Lipa (Deluxe)",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/600x600bb.jpg",
+      "releaseDate": "2017-07-07",
+      "tracks": [
+        "1228739609"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "6805877220",
+      "title": "Training Season's Over - EP",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1d/86/2d1d8629-34d0-f8f6-ffe8-2eca20741d33/1200214922771.jpg/600x600bb.jpg",
+      "releaseDate": "2024-02-15",
+      "tracks": [
+        "6805877227"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1689238301",
+      "title": "Barbie The Album",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/600x600bb.jpg",
+      "releaseDate": "2023-05-27",
+      "tracks": [
+        "1689238922"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1714502820",
+      "title": "Houdini - Single",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/af/ea/ddafeab5-797a-5b6f-7735-f96c537b45e0/5054197894091.jpg/600x600bb.jpg",
+      "releaseDate": "2023-11-09",
+      "tracks": [
+        "1714502827"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "1484636581",
+      "title": "Don't Start Now - Single",
+      "artist": "Dua Lipa",
+      "artistId": "artist-dua-lipa",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/600x600bb.jpg",
+      "releaseDate": "2019-10-31",
+      "tracks": [
+        "1484636829"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "6827331439",
+      "title": "Majid Jordan",
+      "artist": "Majid Jordan",
+      "artistId": "artist-drake",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/b2/15/1fb215ec-1931-4139-ad3f-d35b2e658087/93624921646.jpg/600x600bb.jpg",
+      "releaseDate": "2015-07-10",
+      "tracks": [
+        "6827331599"
+      ],
+      "genre": "R&B/Soul"
+    },
+    {
+      "id": "6827328241",
+      "title": "Never Box Me In",
+      "artist": "Smiley",
+      "artistId": "artist-drake",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/7f/ab/d17fabe8-4f9d-403b-6916-a45959eb8bad/808391340022.jpg/600x600bb.jpg",
+      "releaseDate": "2025-06-12",
+      "tracks": [
+        "6827328579"
+      ],
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": "6827331403",
+      "title": "Wildest Dreams",
+      "artist": "Majid Jordan & Drake",
+      "artistId": "artist-drake",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/da/5f/67da5fd2-0862-6f53-b4ac-5757e3482f8b/93624875062.jpg/600x600bb.jpg",
+      "releaseDate": "2021-10-22",
+      "tracks": [
+        "6827331511"
+      ],
+      "genre": "R&B/Soul"
+    },
+    {
+      "id": "6827327725",
+      "title": "Don't Box Me In",
+      "artist": "Smiley",
+      "artistId": "artist-drake",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/64/54/4164544a-9a14-0dca-7146-f5c1f63ec822/808391309494.jpg/600x600bb.jpg",
+      "releaseDate": "2025-06-12",
+      "tracks": [
+        "6827328126"
+      ],
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": "1440829462",
+      "title": "Nothing Was the Same (Deluxe)",
+      "artist": "Drake",
+      "artistId": "artist-drake",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2013-08-07",
+      "tracks": [
+        "1440829630"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "1440842556",
+      "title": "Views",
+      "artist": "Drake",
+      "artistId": "artist-drake",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/600x600bb.jpg",
+      "releaseDate": "2016-04-05",
+      "tracks": [
+        "1440843496"
+      ],
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "id": "6781080933",
+      "title": "The Platinum Collection",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/600x600bb.jpg",
+      "releaseDate": "1975-10-31",
+      "tracks": [
+        "6781080934",
+        "6781080941",
+        "6781081101",
+        "6781080944",
+        "6781080936"
+      ],
+      "genre": "Rock"
+    },
+    {
+      "id": "6781076388",
+      "title": "The Game (Deluxe Edition)",
+      "artist": "Queen",
+      "artistId": "artist-queen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/ee/da/08eeda1f-d44d-aec1-ec9d-0c5b9f8c8536/602527717524.jpg/600x600bb.jpg",
+      "releaseDate": "1980-06-30",
+      "tracks": [
+        "6781076397"
+      ],
+      "genre": "Rock"
+    },
+    {
+      "id": "663097964",
+      "title": "AM",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+      "releaseDate": "2013-06-19",
+      "tracks": [
+        "663097965",
+        "663098065",
+        "663098056",
+        "663097966",
+        "663098051"
+      ],
+      "genre": "Alternative"
+    },
+    {
+      "id": "251499221",
+      "title": "Favourite Worst Nightmare",
+      "artist": "Arctic Monkeys",
+      "artistId": "artist-arctic-monkeys",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/600x600bb.jpg",
+      "releaseDate": "2007-04-20",
+      "tracks": [
+        "251499791"
+      ],
+      "genre": "Alternative"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "playlist-todays-top-hits",
+      "title": "Today's Top Hits",
+      "description": "Billie Eilish, The Weeknd, Taylor Swift and the biggest songs right now. Cover: Billie Eilish",
+      "cover": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=80",
+      "owner": "Spotify",
+      "ownerAvatar": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "likes": "34,921,489",
+      "duration": "2 hr 45 min",
+      "color": "#1e3264",
+      "tracks": [
+        "1363310482",
+        "1440872304",
+        "1693891139",
+        "1440872309",
+        "1714908991",
+        "6814997425",
+        "6775527443",
+        "1440936016",
+        "1440935808",
+        "1468058171",
+        "1452859427",
+        "1440899467",
+        "1739659144",
+        "1739659142",
+        "1450695739"
+      ]
+    },
+    {
+      "id": "playlist-rapcaviar",
+      "title": "RapCaviar",
+      "description": "Music from Kendrick Lamar, Drake, Travis Scott and hip-hop heavyweights.",
+      "cover": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&auto=format&fit=crop&q=80",
+      "owner": "Spotify",
+      "ownerAvatar": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "likes": "15,820,110",
+      "duration": "3 hr 10 min",
+      "color": "#ba5d07",
+      "tracks": [
+        "1781270323",
+        "1440881708",
+        "1781353929",
+        "1781316884",
+        "1440903307",
+        "1781316952",
+        "6827331511",
+        "1440829630",
+        "1440843496"
+      ]
+    },
+    {
+      "id": "playlist-rock-classics",
+      "title": "Rock Classics",
+      "description": "Rock legends & epic songs that continue to inspire generations.",
+      "cover": "https://images.unsplash.com/photo-1464375117522-1311d6a5b81f?w=600&auto=format&fit=crop&q=80",
+      "owner": "Spotify",
+      "ownerAvatar": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "likes": "11,402,890",
+      "duration": "4 hr 15 min",
+      "color": "#8400e7",
+      "tracks": [
+        "6781080934",
+        "6781080941",
+        "6781081101",
+        "6781076397",
+        "6781080944",
+        "6781080936",
+        "663097965",
+        "251499791",
+        "663098065",
+        "663098056",
+        "663097966",
+        "663098051"
+      ]
+    },
+    {
+      "id": "playlist-mega-hit-mix",
+      "title": "Mega Hit Mix",
+      "description": "A mega mix of 75 favorites from the past few years.",
+      "cover": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+      "owner": "Spotify",
+      "ownerAvatar": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "likes": "7,128,490",
+      "duration": "3 hr 40 min",
+      "color": "#e1118c",
+      "tracks": [
+        "1452859427",
+        "1440899467",
+        "1739659144",
+        "1739659142",
+        "1450695739",
+        "1369380479",
+        "1450695872",
+        "1781270323",
+        "1440881708",
+        "1781353929",
+        "1781316884",
+        "1440903307",
+        "1781316952",
+        "1538003843",
+        "1228739609"
+      ]
+    },
+    {
+      "id": "playlist-deep-focus",
+      "title": "Deep Focus",
+      "description": "Keep calm and focus with ambient and post-rock music.",
+      "cover": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=600&auto=format&fit=crop&q=80",
+      "owner": "Spotify",
+      "ownerAvatar": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "likes": "4,231,900",
+      "duration": "5 hr 12 min",
+      "color": "#056952",
+      "tracks": [
+        "6814997425",
+        "6775527443",
+        "1440936016",
+        "1440935808",
+        "1468058171",
+        "1452859427",
+        "1440899467",
+        "1739659144",
+        "1739659142",
+        "1450695739"
+      ]
+    },
+    {
+      "id": "playlist-all-out-2010s",
+      "title": "All Out 2010s",
+      "description": "The biggest songs of the 2010s. Nostalgia at its peak.",
+      "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&auto=format&fit=crop&q=80",
+      "owner": "Spotify",
+      "ownerAvatar": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "likes": "12,980,500",
+      "duration": "4 hr 02 min",
+      "color": "#d84000",
+      "tracks": [
+        "1693891139",
+        "1440872309",
+        "1714908991",
+        "6814997425",
+        "6775527443",
+        "1440936016",
+        "1440935808",
+        "1468058171",
+        "1452859427",
+        "1440899467",
+        "1739659144",
+        "1739659142",
+        "1450695739",
+        "1369380479",
+        "1450695872",
+        "1781270323"
+      ]
+    }
+  ],
+  "user": {
+    "profile": {
+      "name": "Alex Mercer",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "plan": "Spotify Premium Individual",
+      "followers": 14,
+      "following": 38
+    },
+    "likedSongIds": [
+      "1363310482",
+      "1440872304",
+      "1693891139",
+      "1440872309",
+      "1714908991",
+      "6814997425",
+      "6775527443",
+      "1440936016"
+    ],
+    "customPlaylists": [
+      {
+        "id": "user-playlist-1",
+        "title": "Late Night Drives",
+        "description": "Atmospheric vibes for midnight highways and neon lights.",
+        "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=600&auto=format&fit=crop&q=80",
+        "createdAt": "2026-01-15",
+        "color": "#283c86",
+        "tracks": [
+          "1363310482",
+          "1440872304",
+          "1693891139",
+          "1440872309",
+          "1714908991",
+          "6814997425"
+        ]
+      },
+      {
+        "id": "user-playlist-2",
+        "title": "Workout Energy & Hype",
+        "description": "High octane beats to smash every personal record.",
+        "cover": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80",
+        "createdAt": "2026-02-10",
+        "color": "#e8115b",
+        "tracks": [
+          "1714908991",
+          "6814997425",
+          "6775527443",
+          "1440936016",
+          "1440935808",
+          "1468058171"
+        ]
+      }
+    ],
+    "recentlyPlayed": [
+      {
+        "trackId": "530944482",
+        "playedAt": "2026-11-04T11:20:42.711Z"
+      },
+      {
+        "trackId": "1529548964",
+        "playedAt": "2026-11-04T11:20:22.943Z"
+      },
+      {
+        "trackId": "1440872304",
+        "playedAt": "2026-11-04T11:09:00.056Z"
+      },
+      {
+        "trackId": "1363310482",
+        "playedAt": "2026-11-04T11:08:55.797Z"
+      },
+      {
+        "trackId": "6775527443",
+        "playedAt": "2026-11-04T11:08:04.700Z"
+      },
+      {
+        "trackId": "1693891139",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      },
+      {
+        "trackId": "1440872309",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      },
+      {
+        "trackId": "1714908991",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      },
+      {
+        "trackId": "6814997425",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      },
+      {
+        "trackId": "1440936016",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      },
+      {
+        "trackId": "1440935808",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      },
+      {
+        "trackId": "1468058171",
+        "playedAt": "2026-11-04T10:55:55.598Z"
+      }
+    ]
+  },
+  "genres": [
+    {
+      "id": "genre-music",
+      "title": "Music",
+      "color": "#dc148c",
+      "cover": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-podcasts",
+      "title": "Podcasts",
+      "color": "#006450",
+      "cover": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-live-events",
+      "title": "Live Events",
+      "color": "#8400e7",
+      "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-made-for-you",
+      "title": "Made For You",
+      "color": "#1e3264",
+      "cover": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-new-releases",
+      "title": "New Releases",
+      "color": "#e8115b",
+      "cover": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-pop",
+      "title": "Pop",
+      "color": "#148a08",
+      "cover": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-hip-hop",
+      "title": "Hip-Hop",
+      "color": "#bc5900",
+      "cover": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-rock",
+      "title": "Rock",
+      "color": "#e91429",
+      "cover": "https://images.unsplash.com/photo-1464375117522-1311d6a5b81f?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-latin",
+      "title": "Latin",
+      "color": "#e1118c",
+      "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-dance-electronic",
+      "title": "Dance / Electronic",
+      "color": "#d84000",
+      "cover": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-chill",
+      "title": "Chill",
+      "color": "#477d95",
+      "cover": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-indie",
+      "title": "Indie",
+      "color": "#608108",
+      "cover": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-workout",
+      "title": "Workout",
+      "color": "#777777",
+      "cover": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-r-and-b",
+      "title": "R&B",
+      "color": "#dc148c",
+      "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-gaming",
+      "title": "Gaming",
+      "color": "#e91429",
+      "cover": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "genre-k-pop",
+      "title": "K-Pop",
+      "color": "#1e3264",
+      "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&auto=format&fit=crop&q=80"
+    }
+  ],
+  "lyrics": {
+    "sample": [
+      {
+        "time": 0,
+        "text": "♪ (Music playing) ♪"
+      },
+      {
+        "time": 4,
+        "text": "Yeah, yeah"
+      },
+      {
+        "time": 8,
+        "text": "I've been on my own for long enough"
+      },
+      {
+        "time": 13,
+        "text": "Maybe you can show me how to love, maybe"
+      },
+      {
+        "time": 18,
+        "text": "I'm going through withdrawals"
+      },
+      {
+        "time": 22,
+        "text": "You don't even have to do too much"
+      },
+      {
+        "time": 26,
+        "text": "You can turn me on with just a touch, baby"
+      },
+      {
+        "time": 30,
+        "text": "I look around and Sin City's cold and empty"
+      },
+      {
+        "time": 35,
+        "text": "No one's around to judge me"
+      },
+      {
+        "time": 39,
+        "text": "I can't see clearly when you're gone"
+      },
+      {
+        "time": 43,
+        "text": "I said, ooh, I'm blinded by the lights"
+      },
+      {
+        "time": 48,
+        "text": "No, I can't sleep until I feel your touch"
+      },
+      {
+        "time": 54,
+        "text": "I said, ooh, I'm drowning in the night"
+      },
+      {
+        "time": 59,
+        "text": "Oh, when I'm like this, you're the one I trust"
+      }
+    ]
+  }
+}

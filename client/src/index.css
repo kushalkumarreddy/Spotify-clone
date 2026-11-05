@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-base: #000000;
+    --bg-surface: #121212;
+    --bg-elevated: #181818;
+    --bg-highlight: #242424;
+    --bg-hover: #282828;
+    --bg-press: #333333;
+    
+    --text-base: #ffffff;
+    --text-subdued: #b3b3b3;
+    --text-muted: #727272;
+    
+    --spotify-green: #1ed760;
+    --spotify-green-hover: #3be477;
+    --spotify-green-press: #1abc54;
+
+    --slider-bg: #4d4d4d;
+    --slider-active: #ffffff;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Figtree', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    user-select: none;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  /* Thin Translucent Spotify Scrollbar */
+  ::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.55);
+    border: 3px solid transparent;
+    background-clip: content-box;
+  }
+}
+
+/* Equalizer Bars Animation */
+@keyframes equalizer-1 {
+  0%, 100% { height: 3px; }
+  50% { height: 14px; }
+}
+@keyframes equalizer-2 {
+  0%, 100% { height: 14px; }
+  50% { height: 4px; }
+}
+@keyframes equalizer-3 {
+  0%, 100% { height: 6px; }
+  50% { height: 16px; }
+}
+@keyframes equalizer-4 {
+  0%, 100% { height: 12px; }
+  50% { height: 3px; }
+}
+
+.animate-bar-1 { animation: equalizer-1 0.75s ease-in-out infinite; }
+.animate-bar-2 { animation: equalizer-2 0.65s ease-in-out infinite 0.15s; }
+.animate-bar-3 { animation: equalizer-3 0.85s ease-in-out infinite 0.3s; }
+.animate-bar-4 { animation: equalizer-4 0.7s ease-in-out infinite 0.1s; }
+
+/* Custom utility classes */
+.spotify-card-hover {
+  transition: background-color 0.25s ease;
+}
+.spotify-card-hover:hover {
+  background-color: #282828 !important;
+}
+
+.spotify-play-btn {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: all 0.3s cubic-bezier(0.3, 0, 0, 1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+.group:hover .spotify-play-btn,
+.spotify-play-btn.show-always {
+  opacity: 1;
+  transform: translateY(0);
+}
+.spotify-play-btn:hover {
+  transform: scale(1.06) !important;
+  background-color: #3be477 !important;
+}
+
+.line-clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

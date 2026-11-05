@@ -1,0 +1,23 @@
+{
+  "name": "spotify-web-player-clone",
+  "version": "1.0.0",
+  "description": "Pixel-Perfect Spotify Web Player Clone with Real Audio Playback",
+  "type": "module",
+  "scripts": {
+    "server": "cd server && node index.js",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && node seed.js",
+    "build": "cd client && npm run build",
+    "start": "node start.js"
+  },
+  "keywords": [
+    "spotify",
+    "music-player",
+    "react",
+    "vite",
+    "tailwind",
+    "express"
+  ],
+  "author": "Senior Full-Stack Engineer",
+  "license": "ISC"
+}
